@@ -1,0 +1,1 @@
+[hadoop常用指令](hadoop-command.html)
